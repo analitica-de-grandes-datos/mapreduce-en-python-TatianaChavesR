@@ -22,4 +22,3 @@ for line in sys.stdin:
 for element, array in  elements.items():
     array = ','.join(str(v) for v in sorted(array))
     print(element + "	" + array)
-    
