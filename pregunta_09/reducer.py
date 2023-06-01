@@ -27,4 +27,3 @@ for purpose in biggest_purposes:
     print(element[1]+ "   " + element[2] + "   " + element [0])
     if count_elements_col_3 > 5:
         break
-     
